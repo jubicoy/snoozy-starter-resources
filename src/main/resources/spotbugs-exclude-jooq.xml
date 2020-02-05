@@ -6,4 +6,16 @@
     <Match>
         <Package name="~.*\.db\.tables" />
     </Match>
+    <Match>
+        <Package name="~.*\.db\.tables\.records" />
+    </Match>
+    <Match>
+        <Package name="~.*\.db\.public_" />
+    </Match>
+    <Match>
+        <Package name="~.*\.db\.public_\.tables" />
+    </Match>
+    <Match>
+        <Package name="~.*\.db\.public_\.tables\.records" />
+    </Match>
 </FindBugsFilter>
