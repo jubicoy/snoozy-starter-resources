@@ -4,7 +4,7 @@
 
     <groupId>fi.jubic</groupId>
     <artifactId>snoozy-starter-resources</artifactId>
-    <version>0.1.0-b1</version>
+    <version>0.1.0</version>
     <packaging>jar</packaging>
 
     <name>snoozy-starter-resources</name>
